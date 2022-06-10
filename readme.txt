@@ -1,5 +1,4 @@
-Free Download Source Code "Event_Management_System"
-
+How to use application
 FIRST Download
 
 1.XAMPP
@@ -10,7 +9,7 @@ FIRST Download
 
 4. Download the zip file/ download winrar
 
-5. Extract the file and copy "Event_Management_System" folder
+5. Extract the file and copy folder
 
 6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
 
@@ -20,10 +19,11 @@ FIRST Download
 
 6. Import event_db.sql file(given inside the zip package in SQL file folder)
 
-7.Run the script http://localhost/Event_Management_System
+7.Run the script
 
 
 **LOGIN DETAILS** 
+
 Admin
 user: admin
 pass: admin123
